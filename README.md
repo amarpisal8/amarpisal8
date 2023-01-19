@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amar Shivaji Pisal</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right" width="100%" src="https://www.lambdatest.com/resources/images/news24.gif" alt="coding">
+<img  width="100%" src="https://www.lambdatest.com/resources/images/news24.gif" alt="coding">
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amarpisal8" alt="amarpisal8" /></a> </p>
 
