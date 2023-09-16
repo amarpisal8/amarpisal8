@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working on **Youtube 2.0**
 
-- 🌱 I’m currently learning **React Js, Node Js and MongaDB**
-
 - 💬 Ask me about **Web Devlopment Stacks**
 
 - 📫 How to reach me **amarpisal8@gmail.com**
